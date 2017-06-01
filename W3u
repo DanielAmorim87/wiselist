@@ -1,0 +1,182 @@
+{
+    "name": "LISTA DESPORTO - GERAL",
+    "author": "MISSI8N",
+    "url": "https://pastebin.com/raw/LfsUvYau",
+    "Update": "()",
+    "contact": "",
+    "groups": [
+    {
+    "name": "DESPORTO PORTUGAL",
+    "image": "http://cdn3-i.hitc-s.com/134/liga_portugal_34695.jpg",
+    "stations": [
+                  {
+                    "name": "''Todos os canais nacionais desporto.''
+                    SERVIDORES:''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
+                    Bosslulamen (ForoWise)",
+                    "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                    "url": "",
+                    "referer": "",
+                    "isHost": "" },
+		{
+          	   "name": "SPORT TV 1^",
+          	   "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
+          	   "url": "http://sharecast.eu/embed/live1-rbi6c",
+          	   "isHost": true
+        	},
+		{
+                    "name": "SPORT TV 1 opc1",
+                    "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
+		    "url": "http://163.172.37.71:8789/live/karimos/test/320.ts"
+                },
+		{
+                    "name": "SPORT TV 1 opc2",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+		    "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts"
+                },
+                {
+                            "name": "SPORT TV 2",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts"
+                },
+                {
+                            "name": "SPORT TV 2 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.ts"
+                },
+                								{
+                            "name": "SPORT TV 3",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.ts"
+                },
+                {
+                            "name": "SPORT TV 4",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts"
+                },
+                {
+                            "name": "SPORT TV 5",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
+                            "url": "http://163.172.37.71:8789/live/karimos/test/339.ts"
+                },
+                {
+                            "name": "BENFICA TV 1",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "http://163.172.37.71:8789/live/karimos/test/342.ts"
+                },
+                {
+                            "name": "BENFICA TV 2",
+                            "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
+                            "url": "http://163.172.37.71:8789/live/karimos/test/344.ts"
+                }
+                
+    
+     
+    ]
+    },
+     
+    {
+    "name": " TV/PORTUGAL",
+    "image": "https://lh6.ggpht.com/LOjVJPx2OVP2jKObFA9n8GM4XkXQhhbIGidxpXn_hdSSzUtQ2fDz6V_-ZdMStp8L-w=w300",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Conta com os principais canais alguns canais podem não estar sempre disponíveis.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+                    {
+                            "name": "RTP 1",
+                            "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
+                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/699.ts"
+                    },
+                    {
+                            "name": "RTP 2",
+                            "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
+                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/700.ts"
+                    },
+                    {
+                            "name": "TVI",
+                            "image": "http://1.bp.blogspot.com/-wNqIzaYlbGQ/VhOdgriWyPI/AAAAAAAAGTs/DqfQRyDy868/s1600/TVI.png",
+                            "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
+                    },
+                    {
+                            "name": "SIC",
+                            "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
+                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/704.ts"
+                    },
+                    {
+                            "name": "Rtp3",
+                            "image": "http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",
+                            "url": ""
+                    },
+                    {
+                            "name": "TVI 24",
+                            "image": "http://1.bp.blogspot.com/-04BfgDemehk/VhNU8ZVE5RI/AAAAAAAAGPs/mk1I7bTWqE4/s1600/Tvi24.png",
+                            "url": "http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8"
+                    },
+                    {
+                            "name": "SIC Noticias",
+                            "image": "http://1.bp.blogspot.com/-xAngo4RrtGs/VhNSEKtkxiI/AAAAAAAAGPU/aH8Gwjwe6aE/s1600/SIC%2BNoticias.jpg",
+                            "url": "rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html"
+                    },
+                    {
+                            "name": "TVI REALITY (O Desafio)",
+                            "image": "http://www.tvi.iol.pt/img/reality/topo.jpg",
+                            "url": "http://109.48.88.239:9981/stream/channelid/1783810022?ticket=FFA5A84D28F7ECF332DF30FAE3AB9D5121DC8124&profile=pass"
+                    },
+                    {
+                            "name": "RTP INTERNACIONAL",
+                            "image": "http://www.fphoquei.pt/files/large/a56ae453dd198af",
+                            "url": ""
+                    },
+                    {
+                            "name": "EURONEWS",
+                            "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",
+                            "url": "http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8"
+                    },
+		    {
+                        "name": "TVI Ficção",
+                        "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
+                        "url": ""
+                    },
+		    {
+                        "name": "+ TVI",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/5/56/%2BTVI_logo.png",
+                        "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
+                    },
+		    {
+                            "name": "RTP MADEIRA",
+                            "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
+                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/703.ts"
+                    },
+                    {
+                            "name": "RTP MEMORIA",
+                            "image": "http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8"
+                    },
+                    {
+                            "name": "RTP ACORES",
+                            "image": "http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",
+                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/701.ts"
+                    },
+                    {
+                            "name": "RTP AFRICA",
+                            "image": "http://s20.postimg.org/qodr70i7x/rtp_africa.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8"
+                    },
+		    {
+                        "name": "Abola TV (PT)",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
+                        "url": ""
+                    },
+		    {
+                            "name": "PORTO CANAL Bosslulamen&Lacasitos",
+                            "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
+                            "url": 
+	
+
+
+	SERVIDORES:
+	OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo
